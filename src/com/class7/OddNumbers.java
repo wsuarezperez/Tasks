@@ -4,7 +4,7 @@ public class OddNumbers {
 	    /* print only odd numbers from 1 to 20 */
 
 	    public static void main(String[] args) {
-
+/*
 	        int num = 1;
 
 	        while (num <= 20) {
@@ -25,13 +25,39 @@ public class OddNumbers {
 	            
 	            //print only even numbers from 10 to 100
 	            int numb=2;
-	            while (numb<=100) {
+	            while (numb<=20) {
 	            	System.out.println("These are even numbers");
 	            	if (numb % 2!=0) {
 	            		System.out.println(numb);
 	            	}
 	            	numb++;
 	            	}
+	        
+	            
+	            
+	            
+	            */
+	            
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	            
+	            //PRACTICING EVEN NUMBERS----------------------------------------------------------------------------------------------------
+	            
+	            int carrot=1;
+	            while (carrot<=50) {
+	            	if (carrot %2==0)
+	            		System.out.println("carrot# " +carrot);
+	            		carrot++;
+	            }
+	            
+	            
+	            
+	            
+	            
 	            
 //copied from online for even number
 	           // int num =1 ;
@@ -44,8 +70,3 @@ public class OddNumbers {
 	     //           num++;
 	            }
 	        }
-
-	    }
-	            }
-	        
-	    

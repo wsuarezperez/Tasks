@@ -20,6 +20,6 @@ public static void main (String []args) {
 	 * the numbers that are less than or equal to it, so the only number is 5 since b=5*/
 	for (int b=5;					b<=5;						b++) {
 		System.out.println(b);
-	}r
+	}
 	}
 }
