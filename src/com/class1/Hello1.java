@@ -7,7 +7,7 @@ public class Hello1 {
 		// This is my first Java program
 		
 		System.out.println("Hello Java");
-		
+		    System.out.println("adasdassda");
 	}
 
 }
